@@ -1,12 +1,16 @@
+
 <a href="" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" style="padding-right:2px;" src="git.png"/>
   </a>
 <p style="font-size: 20px;">🙋Personal Information </p>
 <a href=https://www.linkedin.com/in/gaye-buse-%C3%B6zkan-66a711197/><img alt="ReactJS" height="30px" style="padding-right:4px;"   src="https://www.cdnlogo.com/logos/l/78/linkedin-icon.svg"></a>
-<p style="font-size: 20px;">🚀 My Project</p>
+<p style="font-size: 20px;"><br>🚀 My Project</p>
 <a href=https://cv-proje.vercel.app><img alt="cv" height="30px" style="padding-top:10px; padding-bottom:10px;"  src="cv.png"></a>
 <br>
 <br>
+
+
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" style="vertical-align: middle;">
 <p style="font-size: 20px; display: inline-block; vertical-align: middle;padding-LEFT:10px ">Languages and Tools:</p><br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -37,3 +41,4 @@
 <a href="https://cdnlogo.com/logo/git-icon_39856.html"><img alt="git" height="30px" style="padding-right:2px;" src="https://www.cdnlogo.com/logos/g/15/git-icon.svg"></a>
 <a href="https://cdnlogo.com/logo/canva_134985.html"><img alt="git" height="30px" style="padding-right:2px;" src="https://www.cdnlogo.com/logos/c/7/canva.svg">
 <a href="https://cdnlogo.com/logo/node-js_36466.html"><img alt="git" height="30px" style="padding-right:2px;"src="https://www.cdnlogo.com/logos/n/49/node-js.svg"></a>
+<br><br><br> <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1920"  />
