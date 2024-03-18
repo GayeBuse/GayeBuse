@@ -1,5 +1,5 @@
 <a href="" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" style="padding-right:2px;" src="baslık.png"/>
+      <img  alt="JavaScript" style="padding-right:2px;" src="git.png"/>
   </a>
 <p>🙋Personal Information </p>
 <a href=https://www.linkedin.com/in/gaye-buse-%C3%B6zkan-66a711197/><img alt="ReactJS" height="30px" style="padding-right:4px;"   src="https://www.cdnlogo.com/logos/l/78/linkedin-icon.svg"></a><br>
