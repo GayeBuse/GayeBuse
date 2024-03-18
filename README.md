@@ -1,11 +1,12 @@
 <a href="" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" style="padding-right:2px;" src="git.png"/>
   </a>
-<p>🙋Personal Information </p>
-<a href=https://www.linkedin.com/in/gaye-buse-%C3%B6zkan-66a711197/><img alt="ReactJS" height="30px" style="padding-right:4px;"   src="https://www.cdnlogo.com/logos/l/78/linkedin-icon.svg"></a><br>
-🚀 My Project
-<br><a href=https://cv-proje.vercel.app><img alt="cv" height="30px" style="padding-top:10px; padding-bottom:10px;"  src="cv.png"></a>
-
+<p style="font-size: 20px;">🙋Personal Information </p>
+<a href=https://www.linkedin.com/in/gaye-buse-%C3%B6zkan-66a711197/><img alt="ReactJS" height="30px" style="padding-right:4px;"   src="https://www.cdnlogo.com/logos/l/78/linkedin-icon.svg"></a>
+<p style="font-size: 20px;">🚀 My Project</p>
+<a href=https://cv-proje.vercel.app><img alt="cv" height="30px" style="padding-top:10px; padding-bottom:10px;"  src="cv.png"></a>
+<br>
+<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="30px" style="padding-right:2px; padding-left:150px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
