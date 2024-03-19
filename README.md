@@ -2,6 +2,7 @@
 <a href="" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" style="padding-right:2px;" src="git.png"/>
   </a>
+  <img src="https://camo.githubusercontent.com/0ab3ccd947eb4db17d1c8ea89c6ba3e7042b1d7dc5e7bb893339937670c6ab8f/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" />
 <p style="font-size: 20px;">🙋Personal Information </p>
 <a href=https://www.linkedin.com/in/gaye-buse-%C3%B6zkan-66a711197/><img alt="ReactJS" height="30px" style="padding-right:4px;"   src="https://www.cdnlogo.com/logos/l/78/linkedin-icon.svg"></a>
 <p style="font-size: 20px;"><br>🚀 My Project</p>
