@@ -41,5 +41,5 @@
 <a href="https://cdnlogo.com/logo/git-icon_39856.html"><img alt="git" height="50px" style="padding-right:2px;" src="https://www.cdnlogo.com/logos/g/15/git-icon.svg"></a>
 <a href="https://cdnlogo.com/logo/canva_134985.html"><img alt="git" height="50px" style="padding-right:2px;" src="https://www.cdnlogo.com/logos/c/7/canva.svg">
 <a href="https://cdnlogo.com/logo/node-js_36466.html"><img alt="git" height="60px" style="padding-right:2px;"src="https://www.cdnlogo.com/logos/n/49/node-js.svg"></a>
-      <a href="https://cdnlogo.com/logo/photoshop_30873.html"><img alt="ps" height="70px"  src="https://www.cdnlogo.com/logos/p/8/photoshop.svg"></a>
+      <a href="https://cdnlogo.com/logo/photoshop_30873.html"><img alt="ps" height="60px"  src="https://www.cdnlogo.com/logos/p/8/photoshop.svg"></a>
 <br><br><br> <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1920"  />
