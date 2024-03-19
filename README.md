@@ -37,7 +37,7 @@
   </a>
   <a href="https://cdnlogo.com/logo/postman_132740.html"><img alt="Postman" height="50px" style="padding-right:2px;" src="https://www.cdnlogo.com/logos/p/20/postman.svg"></a>
   <a href="https://cdnlogo.com/logo/redux_39877.html"><img alt="Redux" height="50px" style=" padding-left:150px; padding-right:2px;" src="https://www.cdnlogo.com/logos/r/69/redux.svg">
-<a href="https://cdnlogo.com/logo/tailwindcss_42966.html"><img alt="tailwindcss" height="50px" style="padding-right:2px;" src="https://www.cdnlogo.com/logos/t/58/tailwindcss.svg">
+<a href="https://cdnlogo.com/logo/tailwindcss_42966.html"><img alt="tailwindcss" height="40px" style="padding-right:2px;" src="https://www.cdnlogo.com/logos/t/58/tailwindcss.svg">
 <a href="https://cdnlogo.com/logo/photoshop_30873.html"><img alt="ps" height="50px" style="padding-right:2px;" src="https://www.cdnlogo.com/logos/p/8/photoshop.svg"></a>
 <a href="https://cdnlogo.com/logo/git-icon_39856.html"><img alt="git" height="50px" style="padding-right:2px;" src="https://www.cdnlogo.com/logos/g/15/git-icon.svg"></a>
 <a href="https://cdnlogo.com/logo/canva_134985.html"><img alt="git" height="50px" style="padding-right:2px;" src="https://www.cdnlogo.com/logos/c/7/canva.svg">
