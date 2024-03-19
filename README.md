@@ -2,15 +2,21 @@
 <a href="" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" style="padding-right:2px;" src="git.png"/>
   </a>
-  <img src="https://camo.githubusercontent.com/0ab3ccd947eb4db17d1c8ea89c6ba3e7042b1d7dc5e7bb893339937670c6ab8f/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" />
-<p style="font-size: 20px;">🙋Personal Information </p>
-<a href=https://www.linkedin.com/in/gaye-buse-%C3%B6zkan-66a711197/><img alt="ReactJS" height="30px" style="padding-right:4px;"   src="https://www.cdnlogo.com/logos/l/78/linkedin-icon.svg"></a>
-<p style="font-size: 20px;"><br>🚀 My Project</p>
-<a href=https://cv-proje.vercel.app><img alt="cv" width="30px" style="padding-top:10px; padding-bottom:10px;"  src="cv.png"></a>
+  <img src="https://camo.githubusercontent.com/0ab3ccd947eb4db17d1c8ea89c6ba3e7042b1d7dc5e7bb893339937670c6ab8f/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966"/>
+<p style="font-size: 20px;">🙋About Me </p>
+<p>On the Frontend side, I create interactive and user-friendly interfaces using React, one of the modern frameworks, as well as HTML, CSS and JavaScript.  </p>
+ <li>🚀 The project I'm currently working on:</li>  
+ <p> 👉  https://my-ecommerce-eta-pied.vercel.app/</p>
+<li> 📑 Portfolio:</li>
+<p>  👉 https://cv-proje.vercel.app/</p>
 <br>
+Connect with me:
 <br>
+<a href="mailto:gayebuseozkan@gmail.com?subject=Konu&body=Mesaj Metni"> <img src="https://www.cdnlogo.com/logos/o/14/official-gmail-icon-2020.svg" width="30"></a>
+<a href=https://www.linkedin.com/in/gaye-buse-%C3%B6zkan-66a711197/><img alt="ReactJS" width="30px"  src="https://www.cdnlogo.com/logos/l/78/linkedin-icon.svg"></a>
+<a href="https://cdnlogo.com/logo/discord_125151.html"><img style=""src="https://www.cdnlogo.com/logos/d/15/discord.svg" width="40"   ></a>
 
-
+<br><br>
  
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" style="vertical-align: middle;">
 <p style="font-size: 20px; display: inline-block; vertical-align: middle;padding-LEFT:10px ">Languages and Tools:</p><br>
